@@ -36,7 +36,8 @@ const defaultItemStyles = {
     backgroundColor: darkColors.lighterRed,
     color: darkColors.white,
     textDecoration: "none",
-    border: "none"
+    border: "none",
+    cursor: "pointer",
 }
 
 export { Container, Link, Button, darkColors, lightColors }
